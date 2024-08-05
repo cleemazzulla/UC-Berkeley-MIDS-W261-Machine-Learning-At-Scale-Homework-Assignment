@@ -2,7 +2,7 @@
 
 **HW5 - PageRank**
 
-**HW 4 - Part 2 of 2: Supervised Learning of linear models at Scale.**
+**HW4 - Part 2 of 2: Supervised Learning of linear models at Scale.**
 
 **HW3 - Synonym Detection using Apache Spark**
 
